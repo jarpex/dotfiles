@@ -1,0 +1,65 @@
+# Anki
+alt - a : open -a "Anki"
+
+# Calculator
+alt - c : open -a "Calculator"
+
+# Microsoft To Do
+alt - d : open -a "Microsoft To Do"
+
+# Finder
+alt - e : open -a "Finder"
+
+# Google Chrome
+alt - g : open -a "Google Chrome"
+
+# Habit
+alt - h : open -a "Habit"
+
+# Journal
+alt - j : open -a "Journal"
+
+# Calendar
+alt - l : open -a "Calendar"
+
+# Mail
+alt - m : open -a "Mail"
+
+# Notes
+alt - n : open -a "Notes"
+
+# Obsidian
+alt - o : open -a "Obsidian"
+
+# Passwords
+alt - p : open -a "Passwords"
+
+# Structured
+alt - s : open -a "Structured"
+
+# Telegram
+alt - t : open -a "Telegram"
+
+# Apple Music
+alt - play : open -a "Music"
+
+# VS Code
+alt - v : code
+
+# Web browser
+alt - w : open -a "Firefox"
+
+# FoXray
+alt - x : open -a "FoXray"
+
+# ChatGPT
+alt - y : open -a "ChatGPT"
+
+# System Settings
+alt - z : open -a "System Settings"
+
+# Ghostty Terminal
+alt - return : open -a "Ghostty"
+
+# Activity Monitor
+ctrl + shift - escape : open -a "Activity Monitor"
