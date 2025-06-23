@@ -40,3 +40,4 @@ link_file() {
 
 # skhd config
 link_file ".config/skhd/skhdrc" ".config/skhd/skhdrc"
+link_file ".config/ghostty/config" ".config/ghostty/config"

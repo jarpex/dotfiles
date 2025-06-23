@@ -1,0 +1,13 @@
+# Font configuration
+font-family = FiraCode Nerd Font Mono
+font-feature = -calt, -liga, -dlig
+font-size = 18
+
+# Theme and colors
+theme = vesper
+
+# Terminal behavior
+term = xterm-256color
+window-save-state = always
+quit-after-last-window-closed = true
+confirm-close-surface = false

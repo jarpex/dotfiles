@@ -6,4 +6,5 @@ This repository contains symbolic link mappings for configuration files like `sk
 
 ## 📦 Supported tools
 
+- ghostty
 - skhd
