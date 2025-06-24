@@ -38,6 +38,9 @@ link_file() {
     echo "✅ Linked: $target → $source"
 }
 
+# btop config
+link_file ".config/btop/btop.conf" ".config/btop/btop.conf"
+# ghostty config
+link_file ".config/ghostty/config" ".config/ghostty/config"
 # skhd config
 link_file ".config/skhd/skhdrc" ".config/skhd/skhdrc"
-link_file ".config/ghostty/config" ".config/ghostty/config"
