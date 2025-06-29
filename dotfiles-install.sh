@@ -44,3 +44,6 @@ link_file ".config/btop/btop.conf" ".config/btop/btop.conf"
 link_file ".config/ghostty/config" ".config/ghostty/config"
 # skhd config
 link_file ".config/skhd/skhdrc" ".config/skhd/skhdrc"
+# zsh config
+link_file ".config/zsh" ".config/zsh"
+link_file ".zshrc" ".zshrc"
