@@ -8,6 +8,7 @@ theme = vesper
 
 # Terminal behavior
 term = xterm-256color
-window-save-state = always
+window-width=1000
+window-height=100
 quit-after-last-window-closed = true
 confirm-close-surface = false
